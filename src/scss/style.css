@@ -1,0 +1,7 @@
+body {
+  background: rebeccapurple;
+  background: url("@img/2023-03-09_001.jpg") 0 0 no-repeat;
+}
+body span {
+  color: aqua;
+}/*# sourceMappingURL=style.css.map */
